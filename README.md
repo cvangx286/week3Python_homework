@@ -11,22 +11,24 @@ This election audit is to analyze the total counts of votes for each candidates 
     Denver: 82.8% (306,055)
     Arapahoe: 6.7% (24,801)
 
-    
 
-- Using the following code 'largest_county_summary = (
+- Using the following code we are able to determine that Denver had the largest number of votes for this election. 
+        'largest_county_summary = (
         f"-------------------------\n"
         f"Largest County: {largest_county}\n"
         f"Largest County Vote Count: {largest_county_count:,}\n"
         f"Largest County Percentage: {largest_county_percentage:.1f}%\n"' 
         
-        We are able to determing that Denver had the largest number of votes for this election. 
+        
 
 - For each candidate, their total votes and percentages are as follows: 
+    
     Charles Casper Stockham: 23.0% (85,213)
     Diana DeGette: 73.8% (272,892)
     Raymon Anthony Doane: 3.1% (11,606)
 
 - The winner results are: 
+
     Winner: Diana DeGette
     Winning Vote Count: 272,892
     Winning Percentage: 73.8%
