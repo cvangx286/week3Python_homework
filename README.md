@@ -1,10 +1,10 @@
 # week3python_homework
 Week 3 homework submission for Python
 
-#Overview of Election Audit:
+# Overview of Election Audit:
 This election audit is to analyze the total counts of votes for each candidates in 3 counties and determine the winner. We're also analyzing the largest county turnout for this election. 
 
-##Election-Audit Results:
+## Election-Audit Results:
 - There are a total of 369,711 votes. 
 - For each county the total votes and percentages are as follows: 
     Jefferson: 10.5% (38,855)
